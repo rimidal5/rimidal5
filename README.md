@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rimidal5
+- 👋 Hi, I’m Rimidal_V
 - 👀 I’m a beginner programmer.
 - 🌱 I’m currently learning Python.
